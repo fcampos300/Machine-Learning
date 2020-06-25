@@ -6,6 +6,5 @@
 Projetos desenvolvidos com algoritimos de Machine Learning.
 
 <h3>Notebooks</h3>
-<br><br>
 <a href="https://github.com/fcampos300/Machine-Learning/blob/master/analise_recomendacao_filmes.ipynb">Análise exploratória e recomendação de filmes do TMDB</a><br>
 <a href="https://github.com/fcampos300/covid19/blob/master/covid_wordcloud.ipynb">WordCloud sobre o Covid-19 em 08/06/2020</a>
